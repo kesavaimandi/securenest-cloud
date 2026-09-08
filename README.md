@@ -3,7 +3,7 @@
 SecureVault is a high-security, professional file management platform designed to provide users with a private, encrypted "nest" for their most sensitive data. Built with production-ready hardening and a clean, accessible interface, SecureVault bridges the gap between complex cryptography and user-friendly design.
 
 ## 🔗 Live Deployment
-🚀 **Demo**: [securenest-cloud.vercel.app](https://securenest-cloud.vercel.app/)
+**Demo**: [securenest-cloud.vercel.app](https://securenest-cloud.vercel.app/)
 
 ## Key Features
 
